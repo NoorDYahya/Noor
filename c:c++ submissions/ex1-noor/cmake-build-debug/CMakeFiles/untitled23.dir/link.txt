@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/untitled23.dir/main.c.o CMakeFiles/untitled23.dir/cipher.c.o CMakeFiles/untitled23.dir/tests.c.o -o untitled23 
